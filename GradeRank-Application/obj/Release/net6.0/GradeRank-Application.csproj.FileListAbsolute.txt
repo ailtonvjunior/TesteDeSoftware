@@ -1,0 +1,15 @@
+/home/taiskc/MEGAsync/CC/20231/PDS/GradeRank-API/GradeRank-Application/bin/Release/net6.0/GradeRank-Application.deps.json
+/home/taiskc/MEGAsync/CC/20231/PDS/GradeRank-API/GradeRank-Application/bin/Release/net6.0/GradeRank-Application.dll
+/home/taiskc/MEGAsync/CC/20231/PDS/GradeRank-API/GradeRank-Application/bin/Release/net6.0/GradeRank-Application.pdb
+/home/taiskc/MEGAsync/CC/20231/PDS/GradeRank-API/GradeRank-Application/bin/Release/net6.0/GradeRank-Domain.dll
+/home/taiskc/MEGAsync/CC/20231/PDS/GradeRank-API/GradeRank-Application/bin/Release/net6.0/GradeRank-Domain.pdb
+/home/taiskc/MEGAsync/CC/20231/PDS/GradeRank-API/GradeRank-Application/obj/Release/net6.0/GradeRank-Application.csproj.AssemblyReference.cache
+/home/taiskc/MEGAsync/CC/20231/PDS/GradeRank-API/GradeRank-Application/obj/Release/net6.0/GradeRank-Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/taiskc/MEGAsync/CC/20231/PDS/GradeRank-API/GradeRank-Application/obj/Release/net6.0/GradeRank-Application.AssemblyInfoInputs.cache
+/home/taiskc/MEGAsync/CC/20231/PDS/GradeRank-API/GradeRank-Application/obj/Release/net6.0/GradeRank-Application.AssemblyInfo.cs
+/home/taiskc/MEGAsync/CC/20231/PDS/GradeRank-API/GradeRank-Application/obj/Release/net6.0/GradeRank-Application.csproj.CoreCompileInputs.cache
+/home/taiskc/MEGAsync/CC/20231/PDS/GradeRank-API/GradeRank-Application/obj/Release/net6.0/GradeRank-Application.csproj.CopyComplete
+/home/taiskc/MEGAsync/CC/20231/PDS/GradeRank-API/GradeRank-Application/obj/Release/net6.0/GradeRank-Application.dll
+/home/taiskc/MEGAsync/CC/20231/PDS/GradeRank-API/GradeRank-Application/obj/Release/net6.0/refint/GradeRank-Application.dll
+/home/taiskc/MEGAsync/CC/20231/PDS/GradeRank-API/GradeRank-Application/obj/Release/net6.0/GradeRank-Application.pdb
+/home/taiskc/MEGAsync/CC/20231/PDS/GradeRank-API/GradeRank-Application/obj/Release/net6.0/ref/GradeRank-Application.dll

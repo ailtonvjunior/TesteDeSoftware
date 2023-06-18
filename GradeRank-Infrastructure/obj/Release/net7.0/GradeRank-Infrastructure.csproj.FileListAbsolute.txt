@@ -1,0 +1,17 @@
+/home/taiskc/MEGAsync/CC/20231/PDS/GradeRank-API/GradeRank-Infrastructure/bin/Release/net7.0/GradeRank-Infrastructure.deps.json
+/home/taiskc/MEGAsync/CC/20231/PDS/GradeRank-API/GradeRank-Infrastructure/bin/Release/net7.0/GradeRank-Infrastructure.dll
+/home/taiskc/MEGAsync/CC/20231/PDS/GradeRank-API/GradeRank-Infrastructure/bin/Release/net7.0/GradeRank-Infrastructure.pdb
+/home/taiskc/MEGAsync/CC/20231/PDS/GradeRank-API/GradeRank-Infrastructure/bin/Release/net7.0/GradeRank-Application.dll
+/home/taiskc/MEGAsync/CC/20231/PDS/GradeRank-API/GradeRank-Infrastructure/bin/Release/net7.0/GradeRank-Domain.dll
+/home/taiskc/MEGAsync/CC/20231/PDS/GradeRank-API/GradeRank-Infrastructure/bin/Release/net7.0/GradeRank-Application.pdb
+/home/taiskc/MEGAsync/CC/20231/PDS/GradeRank-API/GradeRank-Infrastructure/bin/Release/net7.0/GradeRank-Domain.pdb
+/home/taiskc/MEGAsync/CC/20231/PDS/GradeRank-API/GradeRank-Infrastructure/obj/Release/net7.0/GradeRank-Infrastructure.csproj.AssemblyReference.cache
+/home/taiskc/MEGAsync/CC/20231/PDS/GradeRank-API/GradeRank-Infrastructure/obj/Release/net7.0/GradeRank-Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/home/taiskc/MEGAsync/CC/20231/PDS/GradeRank-API/GradeRank-Infrastructure/obj/Release/net7.0/GradeRank-Infrastructure.AssemblyInfoInputs.cache
+/home/taiskc/MEGAsync/CC/20231/PDS/GradeRank-API/GradeRank-Infrastructure/obj/Release/net7.0/GradeRank-Infrastructure.AssemblyInfo.cs
+/home/taiskc/MEGAsync/CC/20231/PDS/GradeRank-API/GradeRank-Infrastructure/obj/Release/net7.0/GradeRank-Infrastructure.csproj.CoreCompileInputs.cache
+/home/taiskc/MEGAsync/CC/20231/PDS/GradeRank-API/GradeRank-Infrastructure/obj/Release/net7.0/GradeRank-Infrastructure.csproj.CopyComplete
+/home/taiskc/MEGAsync/CC/20231/PDS/GradeRank-API/GradeRank-Infrastructure/obj/Release/net7.0/GradeRank-Infrastructure.dll
+/home/taiskc/MEGAsync/CC/20231/PDS/GradeRank-API/GradeRank-Infrastructure/obj/Release/net7.0/refint/GradeRank-Infrastructure.dll
+/home/taiskc/MEGAsync/CC/20231/PDS/GradeRank-API/GradeRank-Infrastructure/obj/Release/net7.0/GradeRank-Infrastructure.pdb
+/home/taiskc/MEGAsync/CC/20231/PDS/GradeRank-API/GradeRank-Infrastructure/obj/Release/net7.0/ref/GradeRank-Infrastructure.dll
