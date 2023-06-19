@@ -38,7 +38,7 @@ jobs:
         dotnet tool install --global coverlet.console
         dotnet test --collect:"XPlat Code Coverage" --logger:"trx;LogFileName=test_results.trx"
         dotnet tool install --global dotnet-reportgenerator-globaltool
-        reportgenerator "-reports:$(find . -name test_results.trx)" "-targetdir:coverage" -reporttypes:Cobertura
+        reportgenerator "-reports:$(find . -name test_results.trx)" "-targetdir:coverage" -reporttypes:"Cobertura"
 
     # Restore the application to populate the obj folder with RuntimeIdentifiers
     - name: Restore the application
