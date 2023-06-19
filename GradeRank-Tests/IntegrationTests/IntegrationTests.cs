@@ -59,7 +59,7 @@ namespace IntegrationTests
       int courseId = 1;
 
       // Act
-      var response = await _httpClient.GetAsync($"Course/{courseId}");
+      var response = await _httpClient.GetAsync($"course?id={courseId}");
 
       // Assert
       Assert.Equal(HttpStatusCode.OK, response.StatusCode);
