@@ -36,19 +36,12 @@ jobs:
     - name: Setup MSBuild.exe
       uses: microsoft/setup-msbuild@v1.0.2
 
-    # Execute all unit tests in the solution and collect code coverage
     - name: Execute unit tests and collect code coverage
       run: |
         dotnet tool install --global coverlet.console
         dotnet test --collect:"XPlat Code Coverage" --logger:"trx;LogFileName=test_results.trx"
         dotnet tool install --global dotnet-reportgenerator-globaltool
         reportgenerator "-reports:$(find . -name test_results.trx)" "-targetdir:coverage" -reporttypes:"Cobertura"
-
-    # Restore the application to populate the obj folder with RuntimeIdentifiers
-    - name: Restore the application
-      run: msbuild $env:Solution_Name /t:Restore /p:Configuration=$env:Configuration
-      env:
-        Configuration: ${{ matrix.configuration }}
 
     - name: Decode the pfx
       run: |
@@ -79,3 +72,8 @@ jobs:
         name: Code Coverage
         path: coverage
 
+    - name: Publish code coverage to Codecov
+      uses: codecov/codecov-action@v2
+      with:
+        token: ${{ secrets.CODECOV_TOKEN }}
+        files: ./coverage/*.xml
